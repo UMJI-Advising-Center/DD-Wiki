@@ -1,5 +1,5 @@
 # README
-Wiki for UM-SJTU JI Dual-Degree Program initiated by JI Advising Center.
+[Wiki for UM-SJTU JI Dual-Degree Program](https://powercxx.gitbook.io/dd-wiki/) initiated in JI Advising Center.
 
 Built together with ❤️  by JI students.
 
