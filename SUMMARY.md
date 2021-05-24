@@ -7,7 +7,7 @@
   * [了解密大](dd-zhun-bei/le-jie-mi-da/README.md)
     * [🚧正在施工](dd-zhun-bei/le-jie-mi-da/undefined.md)
   * [文书](dd-zhun-bei/wen-shu/README.md)
-    * [🚧正在施工](dd-zhun-bei/wen-shu/undefined.md)
+    * [2019 DD Essay Brainstorm](dd-zhun-bei/wen-shu/undefined.md)
   * [Resume](dd-zhun-bei/resume/README.md)
     * [🚧正在施工](dd-zhun-bei/resume/undefined.md)
 * [来密大前](lai-mi-da-qian/README.md)
