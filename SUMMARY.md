@@ -43,7 +43,7 @@
   * [深造](xia-yi-zhan/shen-zao/README.md)
     * [Master](xia-yi-zhan/shen-zao/master/README.md)
       * [🚧正在施工](xia-yi-zhan/shen-zao/master/undefined.md)
-    * [Ph.D.](xia-yi-zhan/shen-zao/ph.d./README.md)
+    * [PhD](xia-yi-zhan/shen-zao/ph.d./README.md)
       * [🚧正在施工](xia-yi-zhan/shen-zao/ph.d./undefined.md)
   * [工作](xia-yi-zhan/gong-zuo/README.md)
     * [🚧正在施工](xia-yi-zhan/gong-zuo/undefined.md)
