@@ -1,6 +1,6 @@
 # README
 
-[Wiki for UM-SJTU JI Dual-Degree Program](https://ji-ac.gitbook.io/dd-wiki/) initiated in JI Advising Center.
+[An **unofficial** Wiki for UM-SJTU JI Dual-Degree Program](https://ji-ac.gitbook.io/dd-wiki/) initiated in JI Advising Center.
 
 Built together with ❤️  by JI students.
 
