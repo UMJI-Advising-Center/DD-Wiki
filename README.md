@@ -10,7 +10,7 @@ DD-wiki 管理人员会定期对你提交的内容进行审核，通过后会汇
 
 ### jBox
 
-\[jBox - DD-wiki Inbox\]\([https://jbox.sjtu.edu.cn/l/W154zd](https://jbox.sjtu.edu.cn/l/W154zd)\) 
+交大云jBox: [DD-wiki Inbox](https://jbox.sjtu.edu.cn/l/W154zd)
 
 ### 邮件
 
