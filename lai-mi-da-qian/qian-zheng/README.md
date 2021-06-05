@@ -35,7 +35,6 @@ FRS，CFS，财产证明与护照信息页照片通过 **[Enrollment Connect](h
 填写前建议阅读[填写指南](https://ceac.state.gov/GenNIV/Common/Instructions.aspx)与[FAQ](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html). 对于F1（留学签证），需在表格中填写I-20上的SEVIS ID.
 
 > 建议：
-> 
 > 由于网站十分不稳定，经常出现填写到一半跳出的情况，建议使用Chrome填写，并在开始填写前备份*选择城市*，*申请编号*与*密保问题答案*，以便日后Retrieve the Application.
 
 ### 预约签证
@@ -49,7 +48,6 @@ FRS，CFS，财产证明与护照信息页照片通过 **[Enrollment Connect](h
 在完成Application Fee支付后，提供receipt number，即可进入预约页面，选择具体签证时间。
 
 > 注意：
-> 
 > CGI 账号，申请人护照号与账号所在国家存在对应关系，若护照号填写错误/希望更改面签国家，需联系客服申请。
 
 ### 面签
@@ -64,12 +62,11 @@ FRS，CFS，财产证明与护照信息页照片通过 **[Enrollment Connect](h
 其他可能需要的支持性材料：详见[申请美国签证-学生签证](https://www.ustraveldocs.com/cn_zh/cn-niv-typefandm.asp)
 
 > 建议：
-> 
 > 进入使馆时不可携带手机等电子产品，建议轻装出行，背包等交给陪同人或寄存在使馆附近的寄存点。
 
 ## Reference
 
-[申请美国签证 - 在中国](https://www.ustraveldocs.com/cn_zh/index.html?firstTime=No)
+[1] [What are the requirements for an I-20 visa application to be issued?](https://umich.custhelp.com/app/answers/detail/a_id/1060/~/requirements-before-i-20-can-be-issued)
 
-[What are the requirements for an I-20 visa application to be issued?](https://umich.custhelp.com/app/answers/detail/a_id/1060/~/requirements-before-i-20-can-be-issued)
+[2] [申请美国签证 - 在中国](https://www.ustraveldocs.com/cn_zh/index.html?firstTime=No)
 
