@@ -25,5 +25,8 @@ ME的就业机会涉及方方面面，在北美的方向可能有：设计与制
 ## Contact
 
 UMJI Advising Center - 2018级负责人 邱昌元 (ECE+CS) 
+
 E-mail: peterqiu0516@gmail.com 
+
 Wechat: 17717901923
+
