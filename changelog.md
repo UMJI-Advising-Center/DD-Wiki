@@ -8,7 +8,7 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 {% page-ref page="changelog.md" %}
 
-* 2021.06.07 By —— 签证
+* 2021.06.07 By Cindy瑞 —— 签证
 
 {% page-ref page="lai-mi-da-qian/qian-zheng/" %}
 
@@ -19,6 +19,10 @@ description: 这里会持续跟踪DD-Wiki的更新
 {% page-ref page="lai-mi-da-qian/zu-fang/detail-traverridge.md" %}
 
 * 2021.05 By 潘家怡  —— 初始化DD-wiki：Gitbook初始化，README，目录
+
+{% page-ref page="./" %}
+
+
 
 
 
