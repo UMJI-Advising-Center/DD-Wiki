@@ -46,7 +46,7 @@
       * [🚧正在施工](xia-yi-zhan/shen-zao/phd/undefined.md)
   * [工作](xia-yi-zhan/gong-zuo/README.md)
     * [🚧正在施工](xia-yi-zhan/gong-zuo/undefined.md)
-  * [就业](xia-yi-zhan/jiu-ye/README.md)
+  * [就业](xia-yi-zhan/jiu-ye.md)
 * [人生经验](ren-sheng-jing-yan/README.md)
   * [🚧正在施工](ren-sheng-jing-yan/undefined.md)
 * [附录](fu-lu/README.md)
