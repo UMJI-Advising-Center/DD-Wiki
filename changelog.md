@@ -10,7 +10,7 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 * 2021.06.07 By Cindy瑞 —— 签证
 
-{% page-ref page="lai-mi-da-qian/qian-zheng/" %}
+{% page-ref page="lai-mi-da-qian/qian-zheng.md" %}
 
 * 2021.05 By   —— 租房相关 Overview， Traver Ridge
 
