@@ -22,7 +22,7 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 {% page-ref page="lai-mi-da-qian/zu-fang/detail-traverridge.md" %}
 
-* 2021.05 By  TODO —— 2019 DD Essay Brainstorm 分享
+* 2021.05 By  曹航睿、邱昌元、刘昊、范思敏、裘嘉豪、张行健、堃堃、陈严俊、魏翔东、Jupiter、陆馨宇 —— 2019 DD Essay Brainstorm 分享
 
 {% page-ref page="dd-zhun-bei/wen-shu/undefined.md" %}
 
