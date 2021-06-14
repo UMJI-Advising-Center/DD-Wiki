@@ -34,7 +34,7 @@
   * [参考时间线](mi-da-sheng-huo/can-kao-shi-jian-xian/README.md)
     * [🚧正在施工](mi-da-sheng-huo/can-kao-shi-jian-xian/undefined.md)
   * [选课](mi-da-sheng-huo/xuan-ke/README.md)
-    * [CE指南](mi-da-sheng-huo/xuan-ke/CE_program_guide.md)
+    * [CE指南](mi-da-sheng-huo/xuan-ke/ce_program_guide.md)
     * [课程介绍](mi-da-sheng-huo/xuan-ke/ke-cheng-jie-shao/README.md)
       * [🚧正在施工](mi-da-sheng-huo/xuan-ke/ke-cheng-jie-shao/undefined.md)
     * [选课思路](mi-da-sheng-huo/xuan-ke/xuan-ke-si-lu/README.md)

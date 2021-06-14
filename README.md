@@ -8,6 +8,8 @@ Built together with ❤️  by JI students.
 
 DD-wiki 管理人员会定期对你提交的内容进行审核，通过后会汇入 DD-wiki 中。
 
+除了内容外，也请备注你希望在 Changelog 里显示的id（如真实姓名或昵称）～
+
 ### jBox
 
 交大云jBox: [DD-wiki Inbox](https://jbox.sjtu.edu.cn/l/W154zd)

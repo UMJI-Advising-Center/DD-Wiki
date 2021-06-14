@@ -4,6 +4,10 @@ description: 这里会持续跟踪DD-Wiki的更新
 
 # 🌟Changelog
 
+* 2021.06.12 By      —— CE指南
+
+{% page-ref page="mi-da-sheng-huo/xuan-ke/ce\_program\_guide.md" %}
+
 * 2021.06.06 By 邱昌元 —— 就业
 
 {% page-ref page="xia-yi-zhan/jiu-ye.md" %}
