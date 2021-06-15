@@ -10,11 +10,11 @@
 
 ## II. CE program course:
 
-这部分有32学分。如果是ECE转过来的同学，其中203-215-216-270-280-301应该都是能转过来的，ME的同学则可能需要补216-270-280系列。（PS:大部分人应该也都上过 TC300， 而这门课也是program之内的）。在剩下的课程中，TCHNCLCM496 一般是和毕设一起上，而EECS370则是在来UM的第一个学期上掉。
+这部分有32学分。如果是ECE转过来的同学，其中203-215-216-270-280-311应该都是能转过来的，ME的同学则可能需要补216-270-280系列。（PS:大部分人应该也都上过 TC300， 而这门课也是program之内的）。在剩下的课程中，TCHNCLCM496 一般是和毕设一起上，而EECS370则是在来UM的第一个学期上掉。
 
 ## III. Core electives:
 
-这里要求至少四选二，可选项是281，312，373和351。 281一般必选，因为它是JI ECE 的必修，也是所有计算机相关高阶课的prerequisite；312的话ECE的同学可能会选，因为它也是JI ECE 的Core electives；选择373的话还需要在入学之后再等一个学期，因为它要求370 作为prerequisite。 Core electives 作为prerequisite和毕设的课程高度捆绑，比方说，如果想要选择427 \(VLSI\) 作为毕设，312是必选。
+这里要求至少四选二，可选项是281，312，373和351。 281一般必选，因为它是所有计算机相关高阶课的prerequisite；312的话ECE的同学可能会选，因为它也是JI ECE 的Core electives；选择373的话还需要在入学之后再等一个学期，因为它要求370 作为prerequisite。 Core electives 作为prerequisite和毕设的课程高度捆绑，比方说，如果想要选择427 \(VLSI\) 作为毕设，312是必选。
 
 ## Upper level electives && flexible electives:
 
