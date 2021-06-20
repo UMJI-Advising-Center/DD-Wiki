@@ -25,7 +25,7 @@ AC邀请了往届参与了dd项目的前辈们为大家分享他们在dd essay�
 * Describe a problem you've solved or a problem you'd like to solve. It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.
 * Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others. 
 * Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more? 
-* Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design. 
+* Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design.
 
   **建议：这篇essay自由度较大，选择空间更多，字数要求也增加了，需要花更多时间构思&写作，建议早些开始准备。**
 
@@ -53,7 +53,7 @@ AC邀请了往届参与了dd项目的前辈们为大家分享他们在dd essay�
 * 你在这个集体中承担怎样的角色？培养了怎样的能力与品质？ （leadership, commuication skills, time management skills, coordination skills...）
 * 这个集体给你带来了怎样的影响？（life）
 
-  **Essay \#3: 个人感兴趣的领域 + 交叉学科课程设置（具体课程编号、例子） +  科研规划（哪一位具体教授的科研课题（project / paper）吸引了我，希望加入他的实验室，参与XX方向的科研...）**
+  **Essay \#3: 个人感兴趣的领域 + 交叉学科课程设置（具体课程编号、例子） + 科研规划（哪一位具体教授的科研课题（project / paper）吸引了我，希望加入他的实验室，参与XX方向的科研...）**
 
   思路与建议：
 

@@ -17,7 +17,7 @@
     * [Traver Ridge](lai-mi-da-qian/zu-fang/detail-traverridge.md)
 * [密大生活](mi-da-sheng-huo/README.md)
   * [科研](mi-da-sheng-huo/ke-yan/README.md)
-    * [🚧正在施工](mi-da-sheng-huo/ke-yan/undefined.md)
+    * [MDP 项目](mi-da-sheng-huo/ke-yan/mdp.md)
   * [生活](mi-da-sheng-huo/sheng-huo/README.md)
     * [做饭](mi-da-sheng-huo/sheng-huo/zuo-fan/README.md)
       * [🚧正在施工](mi-da-sheng-huo/sheng-huo/zuo-fan/undefined.md)
