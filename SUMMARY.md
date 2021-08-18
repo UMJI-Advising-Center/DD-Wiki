@@ -38,7 +38,7 @@
     * [课程介绍](mi-da-sheng-huo/xuan-ke/ke-cheng-jie-shao/README.md)
       * [🚧正在施工](mi-da-sheng-huo/xuan-ke/ke-cheng-jie-shao/undefined.md)
     * [选课思路](mi-da-sheng-huo/xuan-ke/xuan-ke-si-lu/README.md)
-      * [🚧正在施工](mi-da-sheng-huo/xuan-ke/xuan-ke-si-lu/undefined.md)
+      * [course-selection](mi-da-sheng-huo/xuan-ke/xuan-ke-si-lu/undefined.md)
 * [下一站](xia-yi-zhan/README.md)
   * [深造](xia-yi-zhan/shen-zao/README.md)
     * [Master](xia-yi-zhan/shen-zao/master/README.md)
